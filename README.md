@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hudson-leal
+- 👋 Hi, I’m @hudson-leal ,Tecnólogo em Análise e Desenvolvimento de Sistemas
 - 👀 I’m interested in HTML, CSS, Javascript, VBSCript, GAS (Google AppScript)
 - 🌱 I’m currently learning HTML, CSS, Javascript, Banco de Dados
 - 💞️ I’m looking to collaborate on HTML, CSS, Javascript, VBSCript, GAS (Google AppScript)
